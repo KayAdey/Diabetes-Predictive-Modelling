@@ -11,3 +11,6 @@ Body mass index (weight in kg/(height in m)^2).
 Diabetes pedigree function.
 Age (years).
 Outcome: Class variable (0 or 1).
+
+Objective:
+To build a classification model to predict the likelihood of an individual developing diabetes over the next 5 years using the dataset provided.
